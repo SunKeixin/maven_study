@@ -5,7 +5,7 @@
     <groupId>org.example</groupId>
     <artifactId>maven-study</artifactId>
     <packaging>pom</packaging>
-    <version>1.1.2-SNAPSHOT</version>
+    <version>1.1.2</version>
     <modules>
         <module>commons-flow-bom</module>
         <module>oa-organ</module>
@@ -20,7 +20,7 @@
         <connection>scm:git:https://github.com/SunKeixin/maven_study.git</connection>
         <url>https://github.com/SunKeixin/maven_study</url>
         <developerConnection>scm:git:https://github.com/SunKeixin/maven_study.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v1.1.2-tag</tag>
   </scm>
 
     <!--构建配置-->
