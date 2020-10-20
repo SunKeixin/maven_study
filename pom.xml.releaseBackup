@@ -17,10 +17,9 @@
 
     <!--git 远程仓库配置-->
     <scm>
-        <connection>scm:git:https://github.com/SunKeixin/maven_study.git/tree/v1.1.1</connection>
+        <connection>scm:git:https://github.com/SunKeixin/maven_study.git</connection>
         <url>https://github.com/SunKeixin/maven_study</url>
-        <developerConnection>scm:git:https://github.com/SunKeixin/maven_study.git/tree/v1.1.1</developerConnection>
-      <tag>HEAD</tag>
+        <developerConnection>scm:git:https://github.com/SunKeixin/maven_study.git</developerConnection>
   </scm>
 
     <!--构建配置-->
